@@ -4,3 +4,5 @@ Repository containing all Eurorack compatible modules designed and released unde
 ## Modules
 
 The modules directory contains all Eurorack modules.
+
+## Building modules
