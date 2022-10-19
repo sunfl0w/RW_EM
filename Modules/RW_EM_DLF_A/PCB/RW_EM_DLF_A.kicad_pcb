@@ -3696,7 +3696,7 @@
   (gr_text "RW_EM_DLF_A" (at 137.795 130.175) (layer "B.SilkS") (tstamp c8ed7ec2-89ad-4c13-8b32-9de966930a28)
     (effects (font (size 1 1) (thickness 0.16)) (justify mirror))
   )
-  (gr_text "REV 2022-10-18" (at 178.435 58.42 90) (layer "B.SilkS") (tstamp d113542d-d605-487e-a402-fdaabf1075c2)
+  (gr_text "REV 2022-10-19" (at 178.435 58.42 90) (layer "B.SilkS") (tstamp d113542d-d605-487e-a402-fdaabf1075c2)
     (effects (font (size 1 1) (thickness 0.16)) (justify mirror))
   )
   (gr_text "Licensed under CERN-OHL-S v2+" (at 174.625 56.515 90) (layer "B.SilkS") (tstamp dd939ab1-6369-4ccb-906b-98c1a0b61952)

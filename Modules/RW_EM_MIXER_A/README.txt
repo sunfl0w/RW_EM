@@ -1,5 +1,5 @@
-This is the RW_EM_DLF_A module. A VCF based on a "diode ladder". Originally based on the mki x es VCA design (ericasynths.lv).
-This filter is absolutely awesome. In addition to the original design a diode distortion output was added.
+This is the RW_EM_MIXER_A module. A simplistic mixer based on the mki x es Mixer design (ericasynths.lv).
+Notable about the mixer is an inverting output.
 
 The Schematic and PCB layout files can be found in the PCB directory.
 The accompanying Panel design is located in the Panel directory.
