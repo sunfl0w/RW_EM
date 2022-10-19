@@ -1,4 +1,4 @@
-This is the RW_EM_VCAx2_A module. A dual general purpose VCA based on the mki x es VCA design.
+This is the RW_EM_VCAx2_A module. A dual general purpose VCA based on the mki x es VCA design (ericasynths.lv).
 It basically does what you would expect of a VCA.
 
 The Schematic and PCB layout files can be found in the PCB directory.

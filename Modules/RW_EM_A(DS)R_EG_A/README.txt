@@ -1,5 +1,5 @@
-This is the RW_EM_VCO_A module. A general purpose VCO based on the mki x es VCO design (ericasynths.lv).
-Capabilities include coarse and fine tuning potentiometers and trimmers, an FM input, as well as a PWM CV input for generating square waves instead of sawtooth waves.
+This is the RW_EM_A(DS)R_EG_A module. A ADSR'ish envelope generator with self trigger capability based on the mki x es ADSR EG design (ericasynths.lv).
+It does everything a very basic envelope generator does. The self trigger can be used like a simple LFO.
 
 The Schematic and PCB layout files can be found in the PCB directory.
 The accompanying Panel design is located in the Panel directory.
