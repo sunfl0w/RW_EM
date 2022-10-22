@@ -48,11 +48,15 @@ When assembling a module, start with the back of the PCB as most components are 
 Put vertically smaller parts in first and solder them one by one. Progress to larger and larger parts as you go.
 Jacks, switches and potentiometers and LEDs on the front go last.
 
+Tip:
+Use sockets for ICs. If they get damaged you can just put a new one in easily.
+
+Notice:
 Look out for the RW_EM_A(DS)R_EG_A module. The 10pin Eurorack power socket and a 3.5mm jack conflict as both share some common PCB space.
 In this case the 3.5mm jack should go in first and then the proceed with the Eurorack power socket.
 
-Tip:
-Use sockets for ICs. If they get damaged you can just put a new one in easily.
+Also make sure that all resistors with a * are matched in pairs. All pairs should be easy to see in the relevant schematic.
+Generally resistors with 1% accuracy are already good enough and need no matching.
 
 ## Frequently used components
 
