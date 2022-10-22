@@ -14,7 +14,9 @@ You can also build modules according to the schematics on a perfboard although I
 
 ### Panels
 
-All panels adhere to the standard presented here: https://doepfer.de/a100_man/a100m_e.htm
+![Panel Picture](https://github.com/sunfl0w/RW_EM/blob/master/Modules/RW_EM_VCO_A/RW_EM_VCO_A.jpg?raw=true)
+
+All panels adhere to the standard presented here: https://doepfer.de/a100_man/a100m_e.htm .
 Panels can be manufactured by some laser cutting service, but I only used and tested Sculpteo in Europe so far.
 Panels may have a maximum thickness of 3mm. I only tested black acrylic (3mm) for now and it worked out great so far.
 Notice that the panels svg files do not contain colors for differentiating cuts and engravings.
