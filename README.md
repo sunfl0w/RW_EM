@@ -48,7 +48,7 @@ Use sockets for ICs. If they get damaged you can just put a new one in easily.
 
 The following components are frequently used in all modules but are more or less only used for synthesizer related projects and therefore harder to source:
 
-- PJ301M-12 and PJ398SM => Can be easily sourced from www.thonk.co.uk
+- PJ301M-12 and PJ398SM => Can be easily sourced from www.thonk.co.uk. I always use them together with the hex nuts
 - PJ366ST => Can be easily sourced from www.thonk.co.uk. Only used in the RW_EM_OUT_A module so far
 - Mini toggle switches with pins (or solder lugs) => Can be easily sourced from www.thonk.co.uk. Do not confuse them with sub-miniature switches. Look into the schematics to see if an ON-ON or an ON-OFF-ON switch are needed. Larger switches with lugs will probably not fit into most modules. Some modules like the RW_EM_LFO_A use a switches  with lugs instead of pins but the pin switches will also fit. To be sure if a switch will fit, look at the used footprint dimensions and compare the with the switch you want to use.
 - SONG HUEI R0904N 9mm => Can be easily sourced from www.thonk.co.uk. The tall ones are used in all modules!
