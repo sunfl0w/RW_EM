@@ -2,6 +2,14 @@ This is the RW_EM_SH_NOISE_A module. A noise generator with sample and hold capa
 Functionality includes white, pink and blue noise generation. The sample and hold portion of the module can sample white noise directly or an incoming voltage.
 A sample clock signal needs to be supplied externally. The RW_EM_LFO_A works great for this purpose.
 
+License and warranty (VERY IMPORTANT!!!)
+
+All modules (schematics, pcb layouts and panels) are distributed WITHOUT ANY EXPRESS OR IMPLIED
+WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY
+QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+This modules is released under the CERN-OHL-S v2+ license. Please see
+the CERN-OHL-S v2 or newer for applicable conditions.
+
 The Schematic and PCB layout files can be found in the PCB directory.
 The accompanying Panel design is located in the Panel directory.
 

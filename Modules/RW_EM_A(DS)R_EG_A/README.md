@@ -1,5 +1,19 @@
-This is the RW_EM_A(DS)R_EG_A module. A ADSR'ish envelope generator with self trigger capability based on the mki x es ADSR EG design (ericasynths.lv).
+# RW_EM_A(DS)R_EG_A
+
+This is the RW_EM_A(DS)R_EG_A module. An ADSR'ish envelope generator with self trigger capability based on the mki x es ADSR EG design (ericasynths.lv).
 It does everything a very basic envelope generator does. The self trigger can be used like a simple LFO.
+
+![Panel Picture](https://github.com/sunfl0w/RW_EM/blob/master/Modules/RW_EM_A(DS)R_EG_A/RW_EM_A(DS)R_EG_A.jpg?raw=true)
+
+## License and warranty (VERY IMPORTANT!!!)
+
+**All modules (schematics, pcb layouts and panels) are distributed WITHOUT ANY EXPRESS OR IMPLIED
+WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY
+QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+This modules is released under the CERN-OHL-S v2+ license. Please see
+the CERN-OHL-S v2 or newer for applicable conditions.**
+
+## More Information
 
 The Schematic and PCB layout files can be found in the PCB directory.
 The accompanying Panel design is located in the Panel directory.

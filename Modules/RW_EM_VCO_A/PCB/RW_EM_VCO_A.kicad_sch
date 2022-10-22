@@ -9,6 +9,7 @@
     (date "2022-10-19")
     (rev "2022-10-19")
     (comment 1 "Licensed under CERN-OHL-S v2+")
+    (comment 2 "https://github.com/sunfl0w/RW_EM")
   )
 
   (lib_symbols

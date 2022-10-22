@@ -1314,7 +1314,7 @@
   (gr_text "Licensed under CERN-OHL-S v2+" (at 144.145 140.97 90) (layer "B.SilkS") (tstamp 42b9815a-8e92-4c85-9ba1-b84d42d82803)
     (effects (font (size 0.7 0.7) (thickness 0.12)) (justify mirror))
   )
-  (gr_text "REV 2022-10-19" (at 129.54 106.68 90) (layer "B.SilkS") (tstamp 4ffe654e-51b6-4c30-a1ef-d8817136e10f)
+  (gr_text "REV 2022-10-22" (at 129.54 106.68 90) (layer "B.SilkS") (tstamp 4ffe654e-51b6-4c30-a1ef-d8817136e10f)
     (effects (font (size 1 1) (thickness 0.16)) (justify mirror))
   )
   (gr_text "designed by sunfl0w" (at 134.62 142.875 90) (layer "B.SilkS") (tstamp 5f83618c-6002-4854-9cc7-9970c9748ca2)

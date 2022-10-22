@@ -1,5 +1,19 @@
+# RW_EM_VCAx2_A
+
 This is the RW_EM_VCAx2_A module. A dual general purpose VCA based on the mki x es VCA design (ericasynths.lv).
 It basically does what you would expect of a VCA.
+
+![Panel Picture](https://github.com/sunfl0w/RW_EM/blob/master/Modules/RW_EM_VCAx2_A/RW_EM_VCAx2_A.jpg?raw=true)
+
+## License and warranty (VERY IMPORTANT!!!)
+
+**All modules (schematics, pcb layouts and panels) are distributed WITHOUT ANY EXPRESS OR IMPLIED
+WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY
+QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+This modules is released under the CERN-OHL-S v2+ license. Please see
+the CERN-OHL-S v2 or newer for applicable conditions.**
+
+## More Information
 
 The Schematic and PCB layout files can be found in the PCB directory.
 The accompanying Panel design is located in the Panel directory.

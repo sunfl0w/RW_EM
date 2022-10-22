@@ -1,9 +1,19 @@
 # RW_EM
-Repository containing all Eurorack compatible modules designed and released under the Die Rechenwerke name
+Repository containing all Eurorack compatible modules designed and released under the Die Rechenwerke name.
 
-## Modules
+## License and warranty (VERY IMPORTANT!!!)
 
-The modules directory contains all Eurorack modules.
+**All modules (schematics, pcb layouts and panels) are distributed WITHOUT ANY EXPRESS OR IMPLIED
+WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY
+QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+All modules are released under the CERN-OHL-S v2+ license. Please see
+the CERN-OHL-S v2 or newer for applicable conditions.**
+
+## Directories
+
+- The modules directory contains all design files regarding Eurorack modules
+- The KicadLibs directory is made up of all Kicad libraries used with the design files apart from standard ones shipped with Kicad
+- PanelResources includes svg files used in almost all panel designs (file content might not be to scale, use them with caution)
 
 ## Building modules
 
@@ -27,7 +37,7 @@ All text is only vector engraved and potentiometer scales are vector and surface
 Tip:
 To make the text on a black acrylic panel more visible use some white acrylic paint for all engravings.
 Use a cotton swab or something similar to get paint into all engraved lines. Then wipe the panels off with paper towels (do not use water).
-The paint will only stick to the engraved surface and can be easily wiped off everywhere else.
+The paint will only stick to the engraved surface and can easily be wiped off everywhere else.
 
 ### General assembly
 
@@ -50,7 +60,7 @@ The following components are frequently used in all modules but are more or less
 
 - PJ301M-12 and PJ398SM => Can be easily sourced from www.thonk.co.uk. I always use them together with the hex nuts
 - PJ366ST => Can be easily sourced from www.thonk.co.uk. Only used in the RW_EM_OUT_A module so far
-- Mini toggle switches with pins (or solder lugs) => Can be easily sourced from www.thonk.co.uk. Do not confuse them with sub-miniature switches. Look into the schematics to see if an ON-ON or an ON-OFF-ON switch are needed. Larger switches with lugs will probably not fit into most modules. Some modules like the RW_EM_LFO_A use a switches  with lugs instead of pins but the pin switches will also fit. To be sure if a switch will fit, look at the used footprint dimensions and compare the with the switch you want to use.
+- Mini toggle switches with pins (or solder lugs) => Can be easily sourced from www.thonk.co.uk. Do not confuse them with sub-miniature switches. Look into the schematics to see if an ON-ON or an ON-OFF-ON switch are needed. Larger switches with lugs will probably not fit into most modules. Some modules like the RW_EM_LFO_A use a footprint that fits switches with lugs, but the pin switches will also fit. To be sure if a switch will fit, look at the used footprint dimensions and compare them with the switch you want to use.
 - SONG HUEI R0904N 9mm => Can be easily sourced from www.thonk.co.uk. The tall ones are used in all modules!
 - Alpha 9mm => Can be easily sourced from www.thonk.co.uk. Normal sized vertical ones are used in all modules!
 - 'Erica Synth' style knobs => Can be easily sourced from www.thonk.co.uk. The knobs are used in combination with the alpha pots. The panels are designed for the medium sized knobs only!
