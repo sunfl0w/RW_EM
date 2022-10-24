@@ -1,4 +1,4 @@
-This is the RW_EM_DLF_A module. A VCF based on a "diode ladder". Originally based on the mki x es VCA design (ericasynths.lv).
+This is the RW_EM_DLF_A module. A VCF based on a "diode ladder" low pass filter. Originally based on the mki x es VCA design (ericasynths.lv).
 This filter is absolutely awesome. In addition to the original design a diode distortion output was added.
 
 License and warranty (VERY IMPORTANT!!!)
